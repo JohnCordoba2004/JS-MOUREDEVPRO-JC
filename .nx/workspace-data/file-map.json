@@ -1,0 +1,227 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.1.3",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".github/instructions/nx.instructions.md",
+        "hash": "610204437040871371"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "11905581454202581925"
+      },
+      {
+        "file": ".vscode/mcp.json",
+        "hash": "8697593398925417289"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "13237947059546927424"
+      },
+      {
+        "file": "Basic/00-helloworld.js",
+        "hash": "16947770293086193393"
+      },
+      {
+        "file": "Basic/01-variables.js",
+        "hash": "7024715268736767403"
+      },
+      {
+        "file": "Basic/02-datatypes.js",
+        "hash": "6564420867797955665"
+      },
+      {
+        "file": "Basic/03-beginner-exercise.js",
+        "hash": "13991180849901388443"
+      },
+      {
+        "file": "Basic/04-operadores.js",
+        "hash": "6478969707166725294"
+      },
+      {
+        "file": "Basic/05-operators-exercises.js",
+        "hash": "14611980670698150925"
+      },
+      {
+        "file": "Basic/06-strings.js",
+        "hash": "10313801431313765043"
+      },
+      {
+        "file": "Basic/07-strings-exercises.js",
+        "hash": "16474464849390623897"
+      },
+      {
+        "file": "Basic/08-conditionals.js",
+        "hash": "14808347737011130605"
+      },
+      {
+        "file": "Basic/09-conditionals-exercises.js",
+        "hash": "8386381904571256924"
+      },
+      {
+        "file": "Basic/10-arrays.js",
+        "hash": "16409847754894434154"
+      },
+      {
+        "file": "Basic/11-set.js",
+        "hash": "7130904607749438372"
+      },
+      {
+        "file": "Basic/12-map.js",
+        "hash": "14237492612916143865"
+      },
+      {
+        "file": "Basic/13-structures-exercises.js",
+        "hash": "8016882751238850146"
+      },
+      {
+        "file": "Basic/14-loops.js",
+        "hash": "16052297797524581805"
+      },
+      {
+        "file": "Basic/15-loops-exercises.js",
+        "hash": "3019088693138390628"
+      },
+      {
+        "file": "Basic/16-functions.js",
+        "hash": "14441010725645458089"
+      },
+      {
+        "file": "Basic/17-functions-exercises.js",
+        "hash": "8608104580099555235"
+      },
+      {
+        "file": "Basic/18-objects.js",
+        "hash": "1898486023965527745"
+      },
+      {
+        "file": "Basic/19-object-exercises.js",
+        "hash": "16167280986231018936"
+      },
+      {
+        "file": "Basic/20-destructuring-spreading.js",
+        "hash": "1301608994050989059"
+      },
+      {
+        "file": "Basic/21-destructuring-spreading-exercises.js",
+        "hash": "5692555856289695136"
+      },
+      {
+        "file": "Basic/22-classes.js",
+        "hash": "10669172062208594740"
+      },
+      {
+        "file": "Basic/23-classes-exercises.js",
+        "hash": "11963327349059826030"
+      },
+      {
+        "file": "Basic/24-errors-handling.js",
+        "hash": "10087797879400987859"
+      },
+      {
+        "file": "Basic/25-errors-handling-exercises.js",
+        "hash": "10827885502700994224"
+      },
+      {
+        "file": "Basic/26-console-method.js",
+        "hash": "7604650442164773696"
+      },
+      {
+        "file": "Basic/27-console-methods-exercises.js",
+        "hash": "2554684520131234030"
+      },
+      {
+        "file": "Basic/28-export-modules.mjs",
+        "hash": "17559539435109076707"
+      },
+      {
+        "file": "Basic/29-import-modules.mjs",
+        "hash": "2015660473536209072"
+      },
+      {
+        "file": "Basic/30-import-external-modules.cjs",
+        "hash": "4696243140273481773"
+      },
+      {
+        "file": "Basic/31-modules-exercises.mjs",
+        "hash": "7088949535502932035"
+      },
+      {
+        "file": "Basic/32-imports-exercises.mjs",
+        "hash": "9494887119844963220"
+      },
+      {
+        "file": "Basic/index.html",
+        "hash": "9311914606514504950"
+      },
+      {
+        "file": "Basic/utils/export.js",
+        "hash": "3026298624962257217"
+      },
+      {
+        "file": "intermediate/00-advance-functions.js",
+        "hash": "11131101839101218169"
+      },
+      {
+        "file": "intermediate/01-arrow-functions.js",
+        "hash": "12925637751191013563"
+      },
+      {
+        "file": "intermediate/02-iife.js",
+        "hash": "12882417828260859997"
+      },
+      {
+        "file": "intermediate/03-parameters-rest.js",
+        "hash": "15153715642726134812"
+      },
+      {
+        "file": "intermediate/04-spread-operator.js",
+        "hash": "6695554960404698021"
+      },
+      {
+        "file": "intermediate/05-closures.js",
+        "hash": "14312859613873607688"
+      },
+      {
+        "file": "intermediate/06-Recursividad.js",
+        "hash": "15153580534250953045"
+      },
+      {
+        "file": "intermediate/07-funciones-parciales.js",
+        "hash": "7923851892651388761"
+      },
+      {
+        "file": "intermediate/08-currying.js",
+        "hash": "4993822958512474312"
+      },
+      {
+        "file": "intermediate/09-callbacks.js",
+        "hash": "9050442440125550759"
+      },
+      {
+        "file": "intermediate/10-advanced-functions-exercises.js",
+        "hash": "14096971259904012186"
+      },
+      {
+        "file": "intermediate/index.html",
+        "hash": "11641940265748547164"
+      },
+      {
+        "file": "nx.json",
+        "hash": "13505342583755980919"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "18006881804011789148"
+      },
+      {
+        "file": "package.json",
+        "hash": "3184532313661118156"
+      }
+    ]
+  }
+}

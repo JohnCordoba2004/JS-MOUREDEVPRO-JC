@@ -1,3 +1,6 @@
 {
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "nx": "21.1.3"
+  }
 }
