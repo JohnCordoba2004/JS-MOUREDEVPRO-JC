@@ -23,12 +23,13 @@ function procesData(data, callback) {
 function procesResult(result) {
     console.log(result);
 }
+
 function procesResult2(result) {
     console.log(`Mi resultado es: ${result}`);
 }
 
 procesData([1, 2, 3], procesResult)
 procesData([1, 2, 3], procesResult2)
-procesData([1, 2, 3], (result)=>{
+procesData([1, 2, 3], (result) => {
     console.log(`Mi resultado en la arrow function es: ${result}`);
 })

@@ -1,6 +1,23 @@
 {
-  "type": "module",
+  "name": "js-mouredevpro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnCordoba2004/JS-MOUREDEVPRO-JC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnCordoba2004/JS-MOUREDEVPRO-JC/issues"
+  },
+  "homepage": "https://github.com/JohnCordoba2004/JS-MOUREDEVPRO-JC#readme",
+  "description": "",
   "devDependencies": {
-    "nx": "21.1.3"
+    "jest": "^30.0.2"
   }
 }
